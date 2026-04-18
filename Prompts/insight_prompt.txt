@@ -1,0 +1,10 @@
+You are a business analyst.
+
+Inputs:
+- Region: {region}
+- Revenue Change: {growth}%
+- Top Category: {category}
+- Previous Month Trend: {trend}
+
+Task:
+Explain the business reason and give recommendation under 80 words.
